@@ -1,0 +1,23 @@
+{
+  "name": "slowly-ui-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozgurdevo/slowly-ui-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozgurdevo/slowly-ui-clone/issues"
+  },
+  "homepage": "https://github.com/ozgurdevo/slowly-ui-clone#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.3"
+  }
+}

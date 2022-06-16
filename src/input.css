@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root,
+.root,
+#root,
+#docs-root {
+  --slowly-color: #ffc400;
+  --white: #f4f4f4;
+}
+
+body,
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.slowly-color {
+  background: var(--slowly-color);
+}
+
+.white {
+  background: var(--white);
+}
+
+.slowly-text {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.mybody {
+  top: calc(83.333333% + 6rem);
+}
