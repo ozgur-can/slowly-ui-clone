@@ -8,6 +8,7 @@
 #docs-root {
   --c-yellow: #ffc400;
   --white: #f4f4f4;
+  --c-dark-gray: #dbe0e3;
 }
 
 body,
@@ -18,6 +19,10 @@ html {
 
 .c-yellow {
   background: var(--c-yellow);
+}
+
+.c-dark-gray {
+  background: var(--c-dark-gray);
 }
 
 .slowly-text {
