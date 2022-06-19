@@ -4,10 +4,19 @@ module.exports = {
   theme: {
     extend: {
       maxHeight: {
-        '144': '36rem'
+        '144': '36rem',
+        '208': '52rem'
+      },
+      minHeight: {
+        '208': '52rem'
       },
       height: {
-        '144': '36rem'
+        '132': '33rem',
+        '144': '36rem',
+        '208': '52rem',
+        '232': '58rem',
+        '320':  '80rem',
+        '368':  '92rem'
       }
     },
   },

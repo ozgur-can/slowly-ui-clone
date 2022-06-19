@@ -6,7 +6,7 @@
 .root,
 #root,
 #docs-root {
-  --slowly-color: #ffc400;
+  --c-yellow: #ffc400;
   --white: #f4f4f4;
 }
 
@@ -16,12 +16,8 @@ html {
   height: 100%;
 }
 
-.slowly-color {
-  background: var(--slowly-color);
-}
-
-.white {
-  background: var(--white);
+.c-yellow {
+  background: var(--c-yellow);
 }
 
 .slowly-text {
