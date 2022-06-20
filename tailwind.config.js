@@ -30,6 +30,9 @@ module.exports = {
       },
       maxWidth: {
         'xss': '16rem'
+      },
+      borderWidth: {
+        '5': '5px'
       }
     },
   },
