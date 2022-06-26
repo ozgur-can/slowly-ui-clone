@@ -30,7 +30,8 @@ module.exports = {
         '100w': '100vw'
       },
       maxWidth: {
-        'xss': '16rem'
+        'xss': '16rem',
+        'xss1': '18rem'
       },
       borderWidth: {
         '5': '5px'
