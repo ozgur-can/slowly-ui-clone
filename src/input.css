@@ -38,3 +38,9 @@ html {
 .mybody {
   top: calc(83.333333% + 6rem);
 }
+
+.flex-margin > img{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin: 6px;
+}

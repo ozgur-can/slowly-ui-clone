@@ -26,7 +26,8 @@ module.exports = {
       width: {
         '85p': '85%',
         '90p': '90%',
-        '95p': '95%'
+        '95p': '95%',
+        '100w': '100vw'
       },
       maxWidth: {
         'xss': '16rem'
